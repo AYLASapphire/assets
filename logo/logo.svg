@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 32 32">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Gradient_bez_nazwy_230);
+      }
+    </style>
+    <linearGradient id="Gradient_bez_nazwy_230" data-name="Gradient bez nazwy 230" x1="7.67" y1="24.33" x2="24.33" y2="7.67" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#7f47dd"/>
+      <stop offset=".29" stop-color="#6562e3"/>
+      <stop offset=".52" stop-color="#3991ef"/>
+      <stop offset=".72" stop-color="#1ab3f7"/>
+      <stop offset=".89" stop-color="#06c8fd"/>
+      <stop offset="1" stop-color="#00d0ff"/>
+    </linearGradient>
+  </defs>
+  <path class="st0" d="M13.32,13.34H2.01L13.32,2.02v11.32ZM18.66,2.02v11.32h11.32L18.66,2.02ZM7.4,18.66l5.92,5.92v-5.92h-5.92ZM2,18.66h0s11.32,11.32,11.32,11.32h0s0-3.91,0-3.91l-7.41-7.41h-3.91ZM2,14.39v3.22h12.38v12.37h3.23v-11.62l-3.97-3.97H2ZM18.66,24.59l5.92-5.92h-5.92v5.92ZM26.07,18.67l-7.4,7.4v3.91h0s11.31-11.32,11.31-11.32h-3.91ZM17.61,14.39V2.01h-3.23v11.63l3.97,3.97h11.65v-3.23h-12.39ZM2,13.34h0s0,0,0,0h0ZM13.32,2.02h0s0,0,0,0h0ZM18.66,2.02h0s0,0,0,0h0ZM29.98,13.34l.02.02v-.02h-.02ZM29.98,18.67h.02v-.02l-.02.02ZM13.32,29.99h0s0,0,0,0h0ZM18.66,29.99h0s0,0,0,0h0ZM2,18.67h0s0,0,0,0h0Z"/>
+</svg>

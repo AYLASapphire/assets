@@ -1,0 +1,40 @@
+{
+  "token_name": "AYLA Sapphire",
+  "ticker": "AYLA",
+  "network": "Polygon Mainnet",
+  "total_supply": 1000000000,
+  "tokenomics": {
+    "liquidity_dex_pool": {
+      "percentage": "65%",
+      "amount": 650000000
+    },
+    "big_monday_burn": {
+      "percentage": "20%",
+      "amount": 200000000
+    },
+    "marketing_and_ops": {
+      "percentage": "7%",
+      "amount": 70000000
+    },
+    "rewards": {
+      "percentage": "5%",
+      "amount": 50000000
+    },
+    "founder": {
+      "percentage": "3%",
+      "amount": 30000000
+    }
+  },
+  "mechanics": [
+    "Fixed supply of 1 000 000 000 AYLA. No mint() function. Strictly deflationary.",
+    "Transfer fee collected by taxCollector. Maximum fee permanently capped at 5%.",
+    "All fee changes subject to 24-hour timelock (initiate / execute / cancel).",
+    "taxCollector address changes subject to separate 24-hour timelock.",
+    "Anti-whale: configurable transaction and wallet size limits via LIMITS_ROLE.",
+    "Excluded addresses bypass fee and limit logic.",
+    "AccessControl with separated roles.",
+    "Pausable: emergency mechanism only.",
+    "Built-in utilities: gas-optimized airdrop for batch distribution and token recovery.",
+    "ERC20Permit: gasless approvals (EIP-2612)."
+  ]
+}
